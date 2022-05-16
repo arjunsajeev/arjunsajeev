@@ -2,7 +2,7 @@
 
 Hey I'm Arjun.
 
-I love designing and building things. Right now, I'm working on web applications at Shopify. 
+I design and build things.
 
 <div>
   <a href="https://twitter.com/messages/compose?recipient_id=561999406" title="DM via Twitter" target="_blank"><img src="https://github.com/tailwindlabs/heroicons/blob/master/src/outline/chat.svg"/></a>
